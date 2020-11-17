@@ -7,7 +7,7 @@
 
 ## Tasks
 
-- Add components
+- Add components with stories
   - [ ] Todo list
     - [ ] Todo item
       - [ ] Checkbox
