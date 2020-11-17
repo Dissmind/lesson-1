@@ -1,11 +1,34 @@
 # Enkodeng project
 
+- [Enkodeng project](#enkodeng-project)
+  - [Tasks](#tasks)
+  - [Stack](#stack)
+  - [Usage](#usage)
+
+## Tasks
+
+- Add components
+  - [ ] Todo list
+    - [ ] Todo item
+      - [ ] Checkbox
+      - [ ] Delete todo button (with icon)
+  - [ ] Home page component
+    - [ ] Link to settings page (with icon)
+    - [ ] Heading
+    - [ ] Add todo button (with icon)
+    - [ ] Add todo form
+      - [ ] New todo input
+  - [ ] Settings page
+    - [ ] Link to home page (with icon)
+    - [ ] Setting item
+      - [ ] Setting switch
+
 ## Stack
 
 - React
 - TypeScript
 - Redux
-- Saga
+- Redux-Saga
 - Storybook
 - Styled Components
   
