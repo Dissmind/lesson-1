@@ -18,6 +18,7 @@
     - [ ] Add todo button (with icon)
     - [ ] Add todo form
       - [ ] New todo input
+      - [ ] Submit new todo button 
     - [ ] Spinner
     - [ ] Todos skeleton
   - [ ] Settings page
