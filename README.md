@@ -18,6 +18,8 @@
     - [ ] Add todo button (with icon)
     - [ ] Add todo form
       - [ ] New todo input
+    - [ ] Spinner
+    - [ ] Todos skeleton
   - [ ] Settings page
     - [ ] Link to home page (with icon)
     - [ ] Setting item
